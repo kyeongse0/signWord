@@ -50,4 +50,4 @@ def process_dataset(input_dir, output_dir):
 
 
 # 실행
-process_dataset('train_data', 'normalized_data')
+process_dataset('../train_data', 'normalized_data')
